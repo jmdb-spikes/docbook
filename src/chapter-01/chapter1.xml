@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xml:lang="en"
+         label="6" id="figures">
+
+  <!--beginpage pagenum='129'-->
+  <chapterinfo>
+    <keywordset>
+      <keyword>images</keyword>
+      <keyword>illustrations</keyword>
+    </keywordset>
+  </chapterinfo>
+  <title>Chapter 01: FIrst chapter </title>
+
+  <para>
+    Here is some text that I am putting in.
+  </para>
+
+</chapter>

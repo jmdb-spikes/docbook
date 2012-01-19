@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<book xmlns="http://docbook.org/ns/docbook"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xml:lang="en">
+
+  <title>This is my first attempt at a docbook!</title>
+
+  <xi:include href="chapter-01/chapter1.xml"/>
+  <xi:include href="chapter-02/chapter2.xml"/>
+
+
+
+</book>
+

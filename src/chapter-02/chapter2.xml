@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xml:lang="en"
+         label="7" id="figures">
+
+  <chapterinfo>
+    <keywordset>
+      <keyword>images</keyword>
+      <keyword>illustrations</keyword>
+    </keywordset>
+  </chapterinfo>
+  <title>Chapter 02: Second chapter</title>
+
+  <para>
+  Here is some text that I am putting in. This is my second chapter.
+  </para>
+
+</chapter>
